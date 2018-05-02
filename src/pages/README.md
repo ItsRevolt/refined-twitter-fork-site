@@ -6,6 +6,8 @@ meta:
 ---
 
 # Feature Highlights
+All stuff shown is configurable
+![Gif](https://github.com/sindresorhus/refined-twitter/raw/master/media/screenshot.gif)
 
 ## Visual :eyes:
 - Simplified and improved UI.
@@ -15,7 +17,8 @@ meta:
 - Hides "Retweeted" tweets in the stream. `Configurable`
 - Hides "Trends for you" box. `Configurable`
 - Uses the original image in tweet image galleries instead of a downsized version. `Configurable`
-- [Embeds the photo from Instagram links directly in the tweet.](https://user-images.githubusercontent.com/170270/34315380-12d52994-e77f-11e7-8e23-27b76aee4df2.png)
+- [Embeds the photo from Instagram links directly in the tweet.]
+(https://user-images.githubusercontent.com/170270/34315380-12d52994-e77f-11e7-8e23-27b76aee4df2.png)
 - [Syntax highlighting in code blocks.](https://github.com/sindresorhus/refined-twitter/issues/37)
 - [Removes the annoying suggestions in the search popover.](https://user-images.githubusercontent.com/170270/33800304-70198358-dd3d-11e7-9870-477a44f74f4d.png)
 - [Adds a `Likes` button to the main navbar](https://user-images.githubusercontent.com/14620121/35988497-ace9f93e-0ce5-11e8-8675-17e6ee38cd99.png)
