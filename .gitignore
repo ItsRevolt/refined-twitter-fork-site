@@ -1,0 +1,4 @@
+node_modules
+src/.vuepress/dist
+yarn-error.log
+yarn.lock

@@ -1,0 +1,14 @@
+{
+  "name": "refined-twitter-site",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build"
+  },
+  "devDependencies": {
+    "vuepress": "^0.8.4"
+  },
+  "dependencies": {
+    "markdown-it-emoji": "^1.4.0"
+  }
+}
