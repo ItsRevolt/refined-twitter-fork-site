@@ -1,5 +1,6 @@
 module.exports = {
     title: 'Refined-Twitter-Fork',
+    evergreen: true,
     themeConfig: {
         repo: 'ItsRevolt/refined-twitter',
         nav: [
@@ -18,7 +19,8 @@ module.exports = {
                 title: 'Open source',
                 collapsable: false,
                 children: [
-                    ['/pages/opensource/', 'Open source'],
+                    ['/pages/opensource/', 'Intro'],
+                    ['/pages/opensource/contributing/', 'Contributing']
                 ]
             }
         ]
