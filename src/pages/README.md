@@ -8,6 +8,7 @@ meta:
 # Feature Highlights
 All stuff shown is configurable
 ![Gif](https://github.com/sindresorhus/refined-twitter/raw/master/media/screenshot.gif)
+`Gif does not reflect current version`
 
 ## Visual :eyes:
 - Simplified and improved UI.
